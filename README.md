@@ -16,8 +16,8 @@ language is information，information is everything。和简直就像走向腐�
 
 ## 结语
 
-如果你是一个老鸟想为菜鸟做出贡献请联系我。
-如果你是一个菜鸟想为老鸟做出共享请：请我喝杯咖啡。
+如果你是一个老鸟想为菜鸟做出贡献请加入我们。
+如果你是一个菜鸟想为老鸟做出共享请：请我们喝杯咖啡。
 xmr:48EayEiDvnwiGyYaEP8uZkbtqMLNs5hg9VUfdXJm3fUMXaxVGgyw5haZTKz4P89V3R5BkW5wuduxGWAXeDx2kVvWGAbMNJJ
 
 ![xmr](https://github.com/TechNinjaGuru/fq/blob/main/xmr.png)
