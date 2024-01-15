@@ -70,7 +70,7 @@ language is information，information is everything。和简直就像走向腐�
 如果你是一个菜鸟想为老鸟做出共享请：请我喝杯咖啡。
 xmr:48EayEiDvnwiGyYaEP8uZkbtqMLNs5hg9VUfdXJm3fUMXaxVGgyw5haZTKz4P89V3R5BkW5wuduxGWAXeDx2kVvWGAbMNJJ
 
-![xmr](https://github.com/TechNinjaGuru/fq/blob/main/xmr.png)
+![](https://github.com/TechNinjaGuru/fq/blob/main/xmr.png)
 
 关键词（不用看，浪费时间）
 
