@@ -4,9 +4,7 @@
 
 本仓库旨在帮助菜鸟通过网络渠道提升自己，向世界学习，建设美丽祖国。老鸟勿视。
 
-## 我不想看长文，我只想能免费长期翻墙，
-
-点击[速通翻墙](https://github.com/TechNinjaGuru/fq/blob/main/%E9%80%9F%E9%80%9A%E7%BF%BB%E5%A2%99.md)查看教程
+## 我不想看长文，我只想能免费长期翻墙，点击[速通翻墙](https://github.com/TechNinjaGuru/fq/blob/main/%E9%80%9F%E9%80%9A%E7%BF%BB%E5%A2%99.md)查看教程
 
 ## Todo清单
 
