@@ -1,5 +1,5 @@
 # 翻墙指南
-##我不想看长文我只想能免费长期翻墙
+##我不想看长文，我只想能免费长期翻墙，
 点击[速通翻墙](https://github.com/TechNinjaGuru/fq/blob/main/%E9%80%9F%E9%80%9A%E7%BF%BB%E5%A2%99.md)查看教程
 
 
